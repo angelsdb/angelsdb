@@ -2,7 +2,7 @@
 - 👀 I’m interested in SQL, Excel, Tableu, Python
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Studying SQL, SQL exercises, SQL projects
-- 📫 How to reach me 
+- 📫 reach me here on Github 
 
 <!---
 angelsdb/angelsdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
