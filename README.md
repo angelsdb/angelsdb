@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @angelsdb
-- 👀 I’m interested in SQL, Excel, Tableu, Python
-- 🌱 I’m currently learning
+- 👀 Learning SQL, Excel, Tableu, Python
+- 🌱 I’m currently on a self-taught learning journey
 - 💞️ I’m looking to collaborate on Studying SQL, SQL exercises, SQL projects
-- 📫 reach me here on Github 
+- 📫 reach/follow me here on Github 
 
 <!---
 angelsdb/angelsdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
