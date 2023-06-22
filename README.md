@@ -7,14 +7,6 @@
 - 📫 reach/follow me here on Github
 
 
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
-
-
-
 <!---
 angelsdb/angelsdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
