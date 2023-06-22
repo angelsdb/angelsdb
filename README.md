@@ -1,4 +1,4 @@
-## Hello ! 
+## Short intro  
 
 - 👋 Hi, I’m @angelsdb
 - 👀 Learning SQL, Excel, Tableu, Python
