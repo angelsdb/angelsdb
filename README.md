@@ -4,7 +4,16 @@
 - 👀 Learning SQL, Excel, Tableu, Python
 - 🌱 I’m currently on a self-taught learning journey
 - 💞️ I’m looking to collaborate on Studying SQL, R, Python and anything Data! 
-- 📫 reach/follow me here on Github 
+- 📫 reach/follow me here on Github
+
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
+
 
 <!---
 angelsdb/angelsdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
