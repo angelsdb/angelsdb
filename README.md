@@ -1,3 +1,5 @@
+## Hello ! 
+
 - 👋 Hi, I’m @angelsdb
 - 👀 Learning SQL, Excel, Tableu, Python
 - 🌱 I’m currently on a self-taught learning journey
