@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angelsdb
 - 👀 Learning SQL, Excel, Tableu, Python
 - 🌱 I’m currently on a self-taught learning journey
-- 💞️ I’m looking to collaborate on Studying SQL, SQL exercises, SQL projects
+- 💞️ I’m looking to collaborate on Studying SQL, R, Python and anything Data! 
 - 📫 reach/follow me here on Github 
 
 <!---
